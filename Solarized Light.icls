@@ -19,7 +19,7 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="eee8d5" />
     <option name="SELECTED_INDENT_GUIDE" value="93a1a1" />
-    <option name="SELECTED_TEARLINE_COLOR" value="" />
+    <option name="SELECTED_TEARLINE_COLOR" value="839496" />
     <option name="SELECTION_BACKGROUND" value="839496" />
     <option name="SELECTION_FOREGROUND" value="fdf6e3" />
     <option name="TEARLINE_COLOR" value="93a1a1" />
@@ -239,9 +239,16 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="COFFEESCRIPT.ESCAPE_SEQUENCE">
       <value>
         <option name="FOREGROUND" value="d33682" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
@@ -262,6 +269,11 @@
     <option name="COFFEESCRIPT.FUNCTION_NAME">
       <value>
         <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="COFFEESCRIPT.IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="COFFEESCRIPT.HEREDOC_CONTENT">
@@ -308,6 +320,11 @@
       <value>
         <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="COFFEESCRIPT.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="COFFEESCRIPT.NUMBER">
@@ -359,7 +376,9 @@
       </value>
     </option>
     <option name="COFFEESCRIPT.THIS">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
     </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
@@ -451,6 +470,11 @@
       <value>
         <option name="FOREGROUND" value="859900" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
@@ -894,7 +918,11 @@
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="859900" />
+        <option name="EFFECT_COLOR" value="859900" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
     </option>
     <option name="ECMAL4.AL4.LOCAL_VARIABLE">
       <value>
@@ -1043,6 +1071,7 @@
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="6c71c4" />
       </value>
     </option>
@@ -1061,6 +1090,7 @@
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />
         <option name="EFFECT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="dc322f" />
       </value>
     </option>
     <option name="GHERKIN_COMMENT">
@@ -1209,6 +1239,7 @@
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="839496" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -1340,6 +1371,9 @@
         <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
+    <option name="JAVA_DOC_MARKUP">
+      <value />
+    </option>
     <option name="JAVA_DOC_TAG">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -1382,6 +1416,12 @@
       <value>
         <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JFLEX.JAVA_CODE">
+      <value>
+        <option name="BACKGROUND" value="eee8d5" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="JFLEX.OPTION_KEYWORD">
@@ -1520,6 +1560,7 @@
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
@@ -1847,8 +1888,21 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="LUA_DEFINED_CONSTANTS">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LUA_FIELD">
+      <value>
+        <option name="FOREGROUND" value="657b83" />
+      </value>
+    </option>
     <option name="LUA_GLOBAL_VAR">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
     </option>
     <option name="LUA_KEYWORD">
       <value>
@@ -3442,6 +3496,7 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="dc322f" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="Wrong number">
@@ -3462,7 +3517,9 @@
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="839496" />
+      </value>
     </option>
     <option name="XML_ATTRIBUTE_VALUE">
       <value>
@@ -3480,7 +3537,10 @@
       </value>
     </option>
     <option name="XML_PROLOGUE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="XML_TAG">
       <value>
@@ -3505,6 +3565,7 @@
     <option name="XPATH.KEYWORD">
       <value>
         <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="XPATH.NUMBER">
@@ -3515,6 +3576,7 @@
     <option name="XPATH.STRING">
       <value>
         <option name="FOREGROUND" value="859900" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="XPATH.XPATH_NAME">
@@ -3525,6 +3587,7 @@
     <option name="XPATH.XPATH_VARIABLE">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="YAML_COMMENT">
