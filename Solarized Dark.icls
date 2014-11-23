@@ -243,10 +243,7 @@
       </value>
     </option>
     <option name="COFFEESCRIPT.ESCAPE_SEQUENCE">
-      <value>
-        <option name="FOREGROUND" value="2aa198" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
       <value>
@@ -522,9 +519,7 @@
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-      </value>
+      <value />
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
@@ -569,9 +564,7 @@
       </value>
     </option>
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
+      <value />
     </option>
     <option name="Clojure Atom">
       <value>
@@ -1369,11 +1362,7 @@
       </value>
     </option>
     <option name="JAVA_INVALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-        <option name="EFFECT_COLOR" value="dc322f" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="JAVA_KEYWORD">
       <value>
@@ -1397,9 +1386,7 @@
       </value>
     </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
+      <value />
     </option>
     <option name="JFLEX.COMMENT">
       <value>
@@ -1553,11 +1540,7 @@
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-        <option name="EFFECT_COLOR" value="dc322f" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="JS.KEYWORD">
       <value>
@@ -1610,10 +1593,7 @@
       </value>
     </option>
     <option name="JS.VALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="JSP_ATTRIBUTE_NAME">
       <value>
@@ -1749,10 +1729,7 @@
       </value>
     </option>
     <option name="KOTLIN_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_WRAPPED_INTO_REF">
       <value>
@@ -2308,11 +2285,7 @@
       </value>
     </option>
     <option name="PHP_ESCAPE_SEQUENCE">
-      <value>
-        <option name="FOREGROUND" value="d33682" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
@@ -2363,10 +2336,7 @@
       </value>
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
-      <value>
-        <option name="EFFECT_COLOR" value="dc322f" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="PROPERTIES.KEY">
       <value>
@@ -2379,9 +2349,7 @@
       </value>
     </option>
     <option name="PROPERTIES.VALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="d33682" />
-      </value>
+      <value />
     </option>
     <option name="PROPERTIES.VALUE">
       <value>
@@ -2425,10 +2393,7 @@
       </value>
     </option>
     <option name="PROPS.VALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="PROPS.VALUE">
       <value>
@@ -2474,11 +2439,7 @@
       </value>
     </option>
     <option name="PY.INVALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="d33682" />
-        <option name="EFFECT_COLOR" value="fdf6e3" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="PY.KEYWORD">
       <value>
@@ -2526,9 +2487,7 @@
       </value>
     </option>
     <option name="PY.VALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="d33682" />
-      </value>
+      <value />
     </option>
     <option name="Predefined types">
       <value>
@@ -2635,12 +2594,7 @@
       </value>
     </option>
     <option name="REGEXP.INVALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="eee8d5" />
-        <option name="BACKGROUND" value="d33682" />
-        <option name="EFFECT_COLOR" value="dc322f" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="REGEXP.META">
       <value>
@@ -2750,9 +2704,7 @@
       </value>
     </option>
     <option name="RUBY_ESCAPE_SEQUENCE">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-      </value>
+      <value />
     </option>
     <option name="RUBY_EXPR_IN_STRING">
       <value>
@@ -2776,9 +2728,7 @@
       </value>
     </option>
     <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-      </value>
+      <value />
     </option>
     <option name="RUBY_IVAR">
       <value>
@@ -3282,10 +3232,7 @@
       </value>
     </option>
     <option name="TEA.INVALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="eee8d5" />
-        <option name="BACKGROUND" value="d33682" />
-      </value>
+      <value />
     </option>
     <option name="TEA.KEYWORD">
       <value>
@@ -3322,10 +3269,7 @@
       </value>
     </option>
     <option name="TEA.VALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
