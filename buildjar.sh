@@ -24,7 +24,7 @@ function createDarculaVersion {
 # and copy the .icls scheme files there
 mkdir colors
 cp Solarized\ Light.icls colors
-cp Solarized\ Dark.icls colors
+./generate-dark.pl > colors/Solarized\ Dark.icls
 
 # Create Darcula versions of both schemes,
 createDarculaVersion colors/Solarized\ Light.icls colors/Solarized\ Light\ \(Darcula\).icls
