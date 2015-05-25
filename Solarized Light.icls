@@ -219,10 +219,7 @@
       </value>
     </option>
     <option name="COFFEESCRIPT.BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="COFFEESCRIPT.BOOLEAN">
       <value>
@@ -1355,10 +1352,7 @@
       </value>
     </option>
     <option name="JAVA_BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="JAVA_DOC_COMMENT">
       <value>
@@ -1497,10 +1491,7 @@
       </value>
     </option>
     <option name="JS.BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="JS.BRACES">
       <value>
@@ -1652,10 +1643,7 @@
       </value>
     </option>
     <option name="KOTLIN_BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="657b83" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_BRACKETS">
       <value>
@@ -2172,10 +2160,7 @@
       </value>
     </option>
     <option name="OC.BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="OC.CPP_KEYWORD">
       <value>
@@ -3065,10 +3050,7 @@
       </value>
     </option>
     <option name="Scala Block comment">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="Scala Class">
       <value>
@@ -3235,10 +3217,7 @@
       </value>
     </option>
     <option name="TEA.BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="TEA.INVALID_STRING_ESCAPE">
       <value />
@@ -3630,11 +3609,7 @@
       </value>
     </option>
     <option name="go.block.comment">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="-1" />
-      </value>
+      <value />
     </option>
     <option name="go.brackets">
       <value>
